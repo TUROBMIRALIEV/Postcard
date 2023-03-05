@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../ibs/amaliy"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "amaliy"
+	}
+}
